@@ -1,0 +1,49 @@
+body {
+  background-color: Thistle;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+.menu{
+width: %; 
+background-color: thistle; 
+margin-left:auto;
+margin-right:auto;
+padding: 150px; 
+max-width: 500px;}
+
+<canvas id="canvas" width="400" height="300"></canvas>
+
+{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0f2867;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+canvas {
+  border: 2px solid steelblue;
+  background: #fff;
+}
+
+<div class="toolbox">
+
+</div>
+
+.toolbox {
+  background-color: steelblue;
+  border: 1px solid slateblue;
+  display: flex;
+  width: 400px;
+  padding: 1rem;
+}
